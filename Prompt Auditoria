@@ -1,0 +1,194 @@
+## MI PROYECTO
+**Tipo:** [Portafolio personal de Front End Developer Junior]
+**Usuarios:** [Reclutadores técnicos y no técnicos  
+Tiempo estimado de revisión: 1–3 minutos  
+Nivel de atención: Bajo (escaneo rápido)]
+**Objetivo:** [Convencer a reclutadores de que tengo criterio visual, buenas prácticas de UI y potencial profesional]
+**Stack:** [HTML, CSS y JavaScript Vanilla (sin frameworks)]
+
+## CÓDIGO/INTERFAZ ACTUAL
+te proporciono el código CSS completo que define la interfaz visual del portafolio.
+
+## ANÁLISIS CON BATTLE OF BOTS
+
+Necesito 4 expertos que analicen esto BRUTALMENTE:
+
+### EXPERTO 1: UI/UX Designer Senior
+Analiza PASO A PASO usando Chain of Thought:
+
+**Jerarquía Visual:**
+1. ¿Qué elemento veo primero?
+2. ¿La jerarquía guía correctamente la atención?
+3. ¿Los tamaños son apropiados para importancia?
+4. Score: X/10 con justificación detallada
+
+**Espaciado:**
+1. ¿Hay suficiente espacio negativo?
+2. ¿Los márgenes son consistentes?
+3. ¿Se siente apretado o espacioso apropiadamente?
+4. Score: X/10
+
+**Consistencia:**
+1. ¿Los patrones se repiten correctamente?
+2. ¿Hay elementos que se sienten "fuera de lugar"?
+3. Score: X/10
+
+### EXPERTO 2: Accessibility Specialist (WCAG 2.1)
+Revisa PASO A PASO:
+
+**Contraste de Colores:**
+1. Mide el ratio de CADA combinación texto/fondo
+2. Identifica cuáles FALLAN el estándar 4.5:1
+3. Lista específica de elementos inaccesibles
+4. Score: X/10
+
+**Estructura Semántica:**
+1. ¿Los headings están en orden correcto?
+2. ¿Se usan elementos semánticos apropiados?
+3. ¿Hay labels, aria-labels donde se necesitan?
+4. Score: X/10
+
+**Navegación:**
+1. ¿Funciona la navegación por teclado?
+2. ¿Los estados :focus son visibles?
+3. ¿Un screen reader puede entender esto?
+4. Score: X/10
+
+### EXPERTO 3: Visual Designer
+Evalúa la ESTÉTICA paso a paso:
+
+**Tipografía:**
+1. ¿Las fuentes son apropiadas?
+2. ¿Hay jerarquía tipográfica clara?
+3. ¿Tamaños y pesos son legibles?
+4. Score: X/10
+
+**Paleta de Colores:**
+1. ¿Los colores son cohesivos?
+2. ¿La paleta transmite el mood correcto?
+3. ¿Hay demasiados o muy pocos colores?
+4. Score: X/10
+
+**Pulido:**
+1. ¿Border-radius, sombras, transiciones son consistentes?
+2. ¿Los estados hover/active están bien diseñados?
+3. Score: X/10
+
+### EXPERTO 4: Usuario Sin Filtro
+Responde honestamente:
+1. ¿Entiendes QUÉ hacer inmediatamente?
+2. ¿Algo te confunde o frustra?
+3. ¿Esto se ve profesional o amateur?
+4. ¿Confiarías en esta interfaz?
+5. ¿Qué cambiarías PRIMERO?
+
+---
+
+## DEBATE Y PRIORIZACIÓN
+
+Los 4 expertos debaten y crean:
+
+**TOP 5 PROBLEMAS MÁS CRÍTICOS:**
+1. [Problema] - Impacto: Alto/Medio/Bajo | Dificultad: Fácil/Media/Difícil
+2. [Problema] - Impacto: X | Dificultad: X
+3. [Problema] - Impacto: X | Dificultad: X
+4. [Problema] - Impacto: X | Dificultad: X
+5. [Problema] - Impacto: X | Dificultad: X
+
+**QUICK WINS (Alto impacto + Fácil):**
+- [Lista de cambios que puedo hacer HOY]
+
+---
+
+## TREE OF THOUGHT: 3 SOLUCIONES
+
+Genera 3 rediseños COMPLETOS:
+
+### RAMA A: Minimalista & Refinado
+- Espacios generosos
+- Tipografía elegante
+- Paleta 2-3 colores máx
+- Sin decoraciones
+- Enfoque en contenido y claridad
+
+**CÓDIGO COMPLETO aquí**
+**PROS:** [lista]
+**CONTRAS:** [lista]
+
+### RAMA B: Bold & Memorable
+- Colores distintivos (pero accesibles)
+- Tipografía con personalidad
+- Animaciones sutiles
+- Elementos gráficos
+- Identidad fuerte
+
+**CÓDIGO COMPLETO aquí**
+**PROS:** [lista]
+**CONTRAS:** [lista]
+
+### RAMA C: Funcional First (Máxima Accesibilidad)
+- Legibilidad perfecta
+- Contraste AAA en TODO
+- Navegación obvia
+- Estados ultra claros
+- Cero ambigüedad
+
+**CÓDIGO COMPLETO aquí**
+**PROS:** [lista]
+**CONTRAS:** [lista]
+
+---
+
+## RECOMENDACIÓN FINAL
+
+**RAMA GANADORA:** [A / B / C / Híbrido]
+
+**Por qué:** [Justificación detallada]
+
+**CÓDIGO IMPLEMENTADO FINAL:**
+```jsx
+[Código completo listo para copiar]
+```
+
+**DESIGN TOKENS:**
+```css
+:root {
+  /* Colores con ratios de contraste */
+  --color-primary: [valor]; /* Ratio: X:1 */
+  --color-text: [valor]; /* Ratio: X:1 */
+  
+  /* Tipografía */
+  --font-display: [fuente];
+  --font-body: [fuente];
+  
+  /* Espaciado consistente */
+  --space-xs: [valor];
+  --space-md: [valor];
+  --space-lg: [valor];
+}
+```
+
+---
+
+## CHECKLIST DE IMPLEMENTACIÓN
+
+- [ ] Contraste ≥4.5:1 verificado en TODO
+- [ ] Headings en orden correcto (h1→h2→h3)
+- [ ] Elementos semánticos usados
+- [ ] Labels en todos los inputs
+- [ ] Navegación por teclado funcional
+- [ ] Estados :focus visibles
+- [ ] Probado con screen reader
+
+---
+
+## OUTPUT FINAL REQUERIDO
+
+Dame:
+1. ✅ Reporte de auditoría completo
+2. ✅ 3 códigos de las ramas
+3. ✅ Código final IMPLEMENTADO
+4. ✅ Lista de quick wins
+5. ✅ Design tokens (CSS variables)
+
+Sé BRUTALMENTE honesto. Prefiero verdad dura que suavizar.
