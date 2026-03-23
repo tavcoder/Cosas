@@ -1,0 +1,24 @@
+```
+"Dame un ejercicio de LIVE CODING que una startup de Barcelona
+le daría a una junior front-end.
+
+Debe ser implementable en 20-30 minutos.
+
+Ejemplos del tipo de ejercicio:
+- Implementar debounce para input de búsqueda
+- Crear un componente de paginación
+- Validar formulario con múltiples campos
+- Filtrar lista con múltiples criterios
+- Implementar infinite scroll básico
+
+NO quiero:
+- Algoritmos de ordenamiento
+- Estructuras de datos complejas (árboles, grafos)
+- Problemas matemáticos
+
+SÍ quiero:
+- Problemas de UI/UX reales
+- Manejo de estado
+- Eventos y timing
+- Manipulación de arrays/objetos (básica)
+- Casos edge de usuario real"
